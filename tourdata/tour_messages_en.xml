@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano9_title"><![CDATA[aerial-drone-panorama-view-nature-moldova-sunset-village-wide-fields-valleys]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[aerial-drone-panoramic-view-of-vidraru-lake-in-romania]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[wide-shot-of-the-aegean-sea-coast-with-a-town-on-the-shore-and-island-blue-transparent-water-greenery-around-pamorama-view-from-the-drone-greece]]></data>
+
+
+	<data name="en_spotmap16_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap17_tooltip"><![CDATA[]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
